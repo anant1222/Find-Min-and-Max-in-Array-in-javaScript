@@ -1,0 +1,1 @@
+# Find-Min-and-Max-in-Array-in-javaScript
